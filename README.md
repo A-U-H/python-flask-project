@@ -26,21 +26,6 @@ python-flask-project/
 └── templates/          # Jinja2 HTML templates
     └── index.html      # Main landing page template
 ---
-
----
-
-### **1. Key Features**
-Paste your key features here so they stand out.
-* **Responsive UI:** Built with Bootstrap 5.
-* **Dynamic Routing:** Powered by Flask.
-* **Production Ready:** Includes `passenger_wsgi.py`.
-
-### **2. Installation & Setup**
-**Important:** Ensure your installation steps are **outside** the code blocks so the headers (like `### 1 Clone the Repository`) format correctly.
-
-```markdown
-## 🚀 Installation & Setup
-
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Ahasham-Ul-Haq/python-flask-project.git
