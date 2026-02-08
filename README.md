@@ -25,4 +25,6 @@ python-flask-project/
 ├── static/             # Static assets (CSS, JS, Images)
 └── templates/          # Jinja2 HTML templates
     └── index.html      # Main landing page template
+
+
 ---
