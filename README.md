@@ -25,6 +25,14 @@ python-flask-project/
 ├── static/             # Static assets (CSS, JS, Images)
 └── templates/          # Jinja2 HTML templates
     └── index.html      # Main landing page template
-
-
 ---
+
+**##** ✨ Key Features
+
+* **Responsive Agency Landing Page:** A fully mobile-responsive UI built with **Bootstrap 5**, optimized for all screen sizes.
+* **Dynamic Flask Routing:** Robust backend navigation using **Python Flask** to handle page requests and data flow seamlessly.
+* **Lead Generation System:** Integrated contact forms designed to capture potential client inquiries and business leads.
+* **Portfolio Showcase:** Dedicated sections to highlight ecommerce success stories and agency services.
+* **Database Integration:** Utilizes **SQLAlchemy** with a local **SQLite** instance to manage dynamic content and user data.
+* **Production Ready:** Includes a `passenger_wsgi.py` configuration, making the app ready for deployment on professional hosting environments.
+* **SEO Optimized:** Clean and semantic HTML5 structure to improve search engine rankings for the agency.
